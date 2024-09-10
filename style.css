@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-color: rgb(233, 223, 223);
+}
+#main {
+    background-color: white;
+    padding: 50px 0px;
+    box-shadow: 9px 7px 14px -8px rgba(143,136,143,1);
+    border-radius: 3%;
+}
+#main h1 {
+    color: rgb(98, 119, 243);
+    margin-bottom: 35px;
+}
+#textbox {
+    
+}
